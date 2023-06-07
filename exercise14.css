@@ -1,0 +1,21 @@
+body {background: white;}
+
+.box1 {background: #F5F5F5;
+    border-radius: 10px;
+    border: solid 1px black;
+    position: absolute;
+    left: 501px;
+    top: 100px;
+    width: 438px;
+    height: 577px;;
+
+}
+
+.box2 {background: #E3A647;
+border-radius: 100px;
+position: absolute;
+width: 330px;
+height: 65px;
+top: 450px;
+left: 60px;
+}
